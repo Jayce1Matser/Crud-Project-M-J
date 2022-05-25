@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+    height: 1000px;
+}
+
+header{
+    background-color: red;
+    height: 150px;
+    width: 80%;
+}
+
+main{
+    background-color: blue;
+    height: 800px;
+    width: 94%;
+}
+
+footer{
+    background-color: palevioletred;
+    height: 50px;
+    width: 94%;
+}
